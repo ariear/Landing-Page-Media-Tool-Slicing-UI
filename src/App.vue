@@ -11,6 +11,7 @@
   
   <Kenafah />
   <TerusGimana />
+  <Alternative />
   <Footer />
 </template>
 <script>
@@ -19,13 +20,15 @@ import HeaderComponent from './components/HeaderComponent.vue'
 import Kenafah from './components/Kenafah.vue'
 import TerusGimana from './components/TerusGimana.vue'
 import Footer from './components/Footer.vue'
+import Alternative from './components/Alternative.vue'
 export default {
   components: {
     NavComponent,
     HeaderComponent,
     Kenafah,
     TerusGimana,
-    Footer
+    Footer,
+    Alternative
   }
 }
 </script>
