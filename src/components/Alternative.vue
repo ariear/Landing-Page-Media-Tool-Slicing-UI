@@ -26,7 +26,7 @@
 
         <div class="absolute w-max p-10 rounded-xl bg-white shadow-xl left-0 right-0 -bottom-96 md:-bottom-[400px] lg:-bottom-80 mx-auto rotate-1 flex flex-col lg:flex-row">
 
-            <div class="w-[250px] md:w-[300px] xl:w-[500px] mr-3 relative">
+            <div class="w-[250px] md:w-[300px] xl:w-[500px] md:mr-3 relative">
                 <img src="/alternative1.png" >
                 <p class="font-title font-normal text-base md:text-xl py-6">
                     Buffer.com - Buffer is the most intuitive, affordable, and authentic way to reach more people on social media.
@@ -38,7 +38,7 @@
                 </div>
             </div>
 
-            <div class="w-[250px] md:w-[300px] xl:w-[500px] ml-3 mt-7 lg:mt-0">
+            <div class="w-[250px] md:w-[300px] xl:w-[500px] md:ml-3 mt-7 lg:mt-0">
                 <img src="/alternative2.png" >
                 <p class="font-title font-normal text-base md:text-xl py-6">
                     Sendible.com – Grow your audience, attract new customers, and reach your social media goals with an all-in-one platform.
