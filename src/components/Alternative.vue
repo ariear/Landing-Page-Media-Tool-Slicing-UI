@@ -1,8 +1,8 @@
 <template>
   <div class="relative pb-[400px] bg-white">
 
-      <div class="w-[97vw] lg:w-[99vw] rounded-xl mx-auto bg-[#FC881D]">
-      <div class="bg-[#0D0E25] w-[96vw] lg:w-[98vw] rounded-xl mx-auto -rotate-1 pb-80">
+      <div class="w-[95vw] lg:w-[99vw] rounded-xl mx-auto bg-[#FC881D]">
+      <div class="bg-[#0D0E25] w-[94vw] lg:w-[98vw] rounded-xl mx-auto -rotate-1 pb-80">
 
           <div class="text-white rotate-1 flex justify-around items-center flex-wrap pt-20 pb-32">
 
