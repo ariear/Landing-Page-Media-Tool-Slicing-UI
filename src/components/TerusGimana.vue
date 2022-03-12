@@ -14,7 +14,7 @@
 
         <div class="flex flex-wrap justify-evenly container mx-auto mt-20">
 
-            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7">
+            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7 hover:scale-105 transition-all duration-300">
             <div class=" bg-gray-200 rounded-xl">
                 <img src="/lope.png" class="mx-auto py-14">
             </div>
@@ -24,7 +24,7 @@
             </p>
             </div>
 
-            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7">
+            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7 hover:scale-105 transition-all duration-300">
             <div class=" bg-gray-200 rounded-xl">
                 <img src="/wibu-autis.png" class="mx-auto py-14">
             </div>
@@ -34,7 +34,7 @@
             </p>
             </div>
 
-            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7">
+            <div class="w-[93vw] md:w-[380px] xl:mt-0 mt-7 hover:scale-105 transition-all duration-300">
             <div class=" bg-gray-200 rounded-xl">
                 <img src="/ayam.png" class="mx-auto py-14">
             </div>
