@@ -6,7 +6,7 @@
     <p class="text-center font-title font-normal text-white md:w-[600px] mx-auto my-10 text-base md:text-lg px-4 md:px-0">Adalah benar apa yang kamu baca barusan. Tool yang mainstream akan memberikan kamu pelbagai insight.</p>
     
     <div class="flex md:flex-row flex-col items-center justify-center">
-        <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f]">Memulai Sekarang</button>
+        <button class="py-3 px-5 w-max text-white font-dmsans rounded-full bg-[#FC881D] shadow-xl shadow-[#d499622f] hover:bg-[#ff912a] transition-all">Memulai Sekarang</button>
         <button class="py-3 px-5 w-max text-white font-dmsans ml-0 md:ml-6 flex items-center mt-4 md:mt-0"><img src="/play-circle.png" alt="play" class="mr-3">Pelajarin Dulu</button>
     </div>
   </div>
