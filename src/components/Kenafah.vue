@@ -11,7 +11,7 @@
           <p class="text-3xl font-title font-bold">Kenapa Kami Tidak Memberikan Insight Apapun ?</p>
           <p class="font-title text-base py-8">Di sini kita akan klarifikasi mengapa kita tidak memberikan insight apapun di tool ini kepada kamu. Pada dasarnya hal ini kami lakukan semata-mata ingin menyelamatkan planet bumi.</p>
           
-          <button class="py-4 px-6 bg-[#0D0E25] rounded-full text-white font-dmsans flex items-center shadow-lg">Pelajari Lebih Lanjut <img src="/arrow.png" class="ml-3" ></button>
+          <button class="py-4 px-6 bg-[#0D0E25] rounded-full text-white font-dmsans flex items-center shadow-lg hover:bg-[#212238] transition-all">Pelajari Lebih Lanjut <img src="/arrow.png" class="ml-3" ></button>
       </div>
 
 
